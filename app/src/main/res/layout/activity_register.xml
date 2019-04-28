@@ -37,14 +37,6 @@
         android:textAlignment="center"/>
 
     <Button
-        android:id="@+id/btnLOgIn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:text="LOG IN"
-        android:layout_marginLeft="150dp"/>
-
-    <Button
         android:id="@+id/btnSignUp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
